@@ -1,4 +1,4 @@
-baseURL = "https://www.nitrocoldbro.com"
+baseURL = "http://www.nitrocoldbro.com"
 languageCode = "en-us"
 title = "Joel Choice"
 theme = "ananke"
