@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://sleepy-leakey-ba0f60.netlify.com"
 languageCode = "en-us"
 title = "Joel Choice"
 theme = "ananke"
